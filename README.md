@@ -25,4 +25,4 @@ Which problems does your idea solve? How common or frequent is this problem? Wha
 Semi-supervised learning to classify image data (plan and photograph) according to subjective data. Extract common layout, material, lighting and space use.
 
 
-[image](00432-691448302-Community-focused aspects of building program peel up from the ground to create a fluid, open space that merges with the streets.png)
+![00432-691448302-Community-focused aspects of building program peel up from the ground to create a fluid, open space that merges with the streets.png](https://github.com/geof-b/spatial-incubator/blob/main/00432-691448302-Community-focused%20aspects%20of%20building%20program%20peel%20up%20from%20the%20ground%20to%20create%20a%20fluid,%20open%20space%20that%20merges%20with%20the%20streets.png?raw=true)
